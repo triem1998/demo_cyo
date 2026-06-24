@@ -157,5 +157,3 @@ Uses deepinv's [distributed tiling framework](https://github.com/deepinv/deepinv
 
 
 
-# demo_cyo
-Tools and scripts for running EI on cryo-electron tomography data.
